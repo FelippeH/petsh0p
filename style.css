@@ -1,0 +1,138 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:sans-serif;
+    text-decoration:none;
+}
+.container {
+    padding:120px 80px;
+}
+.secao-banner {
+    background:url("img/banner-topo.jpg") center/cover no-repeat;
+}
+.logo-topo {
+    max-width:250px;
+    color:#3c184e;
+}
+.logo-topo img {
+    width:30px;
+    margin-right:5px;
+}
+.pet-boutique {
+    font-size:35px;
+    margin-bottom:5px;
+}
+.slogan {
+    font-size:14px;
+    text-align:center;
+}
+.container-titulo-topo {
+    max-width:1080px;
+    border-radius:10px;
+    padding:40px;
+    margin:70px auto 0;
+    background-color:#ffffffc4;
+    box-shadow:0px 8px 32px #1f26875e;
+}
+.container-titulo-topo img {
+    width:20px;
+    margin-left:10px;
+}
+h1 {
+    color:#3c184e;
+    font-size:60px;
+    text-align:center;
+    font-weight:800;
+    margin-bottom:40px;
+}
+.link-ws {
+    width:200px;
+    padding:10px 20px;
+    margin:0 auto;
+    border-radius:10px;
+    background-color:#3c184e;
+    font-size:20px;
+    text-align:center;
+}
+.link-ws a {
+    color:#ffff;
+}
+h3 {
+    font-size:36px;
+    color:#3c184e;
+    text-align:center;
+    margin-bottom:45px;
+}
+.container-lista {
+    max-width:800px;
+    margin:0 auto 50px;
+    color:#3c184e
+}
+ul li {
+    list-style:square;
+    font-size:20px;
+    margin-bottom:20px;
+}
+span {
+    font-weight:700;
+    font-style:italic;
+}
+.galeria {
+    width:800px;
+    margin:0 auto;
+    text-align:center;
+}
+.galeria img {
+    margin:0 2px;
+    border-radius:5px;
+    box-shadow:3px 6px 10px 6px #0000005c;
+}
+.secao-faixa {
+    background-color:#3c184e;
+    text-align:center;
+}
+.secao-faixa p {
+    max-width:800px;
+    margin:0 auto 50px;
+    font-size:40px;
+    color:#fff;
+}
+.secao-faixa a {
+    margin:0 20px;
+}
+.secao-faixa img {
+    width:60px;
+    height:60px;
+}
+.img-marcas {
+    width:800px;
+    margin:0 auto;
+}
+.logo {
+    width:148px;
+    height:148px;
+    margin:0 15px;
+}
+.onde-estamos {
+    text-align:center;
+}
+.onde-estamos p {
+    font-size:22px;
+    color:#3c184e;
+    text-align:center;
+    margin-bottom:45px;
+}
+.onde-estamos iframe {
+    width:800px;
+    height:450px;
+}
+.rodape {
+    padding:16px 0;
+    background-color:#3c184e;
+}
+.rodape p {
+    color:#fff;
+    font-size:12px;
+    text-align:center;
+}
