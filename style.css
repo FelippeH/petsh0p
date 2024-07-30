@@ -136,3 +136,60 @@ span {
     font-size:12px;
     text-align:center;
 }
+
+@media (max-width: 768px) {
+    .container {
+        padding: 60px 20px;
+    }
+
+    .container-titulo-topo, .container-lista, .galeria, .img-marcas, .onde-estamos iframe {
+        max-width: 100%;
+        width: auto;
+    }
+
+    h1 {
+        font-size: 36px;
+    }
+
+    .link-ws {
+        width: 100%;
+        font-size: 16px;
+    }
+
+    h3 {
+        font-size: 28px;
+    }
+
+    ul li {
+        font-size: 16px;
+    }
+
+    .secao-faixa p {
+        font-size: 24px;
+        margin-bottom: 20px;
+    }
+
+    .secao-faixa img {
+        width: 40px;
+        height: 40px;
+    }
+
+    .logo {
+        width: 100px;
+        height: 100px;
+        margin: 10px;
+    }
+
+    .onde-estamos p {
+        font-size: 18px;
+    }
+
+    .onde-estamos iframe {
+        width: 100%;
+        height: auto;
+    }
+
+    .rodape p {
+        font-size: 10px;
+    }
+}
